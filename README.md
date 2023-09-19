@@ -2,6 +2,7 @@
 <h3 align="center">A passionate frontend developer from Toronto, Ontario.</h3>
 
 <h3 align="left">Connect with me:</h3>
+<h3 align="center">Find me at jacobj@live.ca</h3>
 <p align="left">
 </p>
 
