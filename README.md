@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jacob Jung !</h1>
-<h3 align="center">A passionate frontend developer from Toronto, Ontario.</h3>
+<h3 align="center">A passionate computer science student from Toronto, Ontario.</h3>
 
 - ✏️ I currently attend **Wilfrid Laurier University**
 
