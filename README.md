@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **jacobj@live.ca**
 
--Currently developing **[StudyBuddy](https://github.com/JacobJungg/StudyBuddy)**, an AI tool created to help keep focus while studying!
+- 🔨 Currently developing **[StudyBuddy](https://github.com/JacobJungg/StudyBuddy)**, an AI tool created to help keep focus while studying!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
