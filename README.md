@@ -5,8 +5,6 @@
 
 - 📫 How to reach me **jacobj@live.ca**
 
-- 👨‍💻 Currentlty a Software Developer Intern at **[Sonical.ly](https://www.sonical.ly/)**
-
 - 🔨 Currently developing **[StudyBuddy](https://github.com/JacobJungg/StudyBuddy)**, an AI tool created to help keep focus while studying!
 
 <h3 align="left">Connect with me:</h3>
